@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="itextpdf-5.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/itextpdf-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcommon-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jfreechart-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
